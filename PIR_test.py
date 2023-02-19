@@ -5,10 +5,10 @@ from pyrebase import pyrebase
 import sys
 
 config = {
-    "apiKey": "AIzaSyAHpO0pBeqj9xhJ_wj92QSvWE5Xtbk9O44",
-    "authDomain":"smarthomedeneme3.firebaseapp.com",
-    "databaseURL": "https://smarthomedeneme3-default-rtdb.firebaseio.com",
-    "storageBucket": "smarthomedeneme3.appspot.com"
+    "apiKey": "***",
+    "authDomain":"***",
+    "databaseURL": "***",
+    "storageBucket": "***"
 }
 
 firebase = pyrebase.initialize_app(config)
