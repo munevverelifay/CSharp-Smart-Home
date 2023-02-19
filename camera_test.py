@@ -8,14 +8,14 @@ import pyrebase
 import sys
 
 config = {
-    "apiKey": "AIzaSyAHpO0pBeqj9xhJ_wj92QSvWE5Xtbk9O44",
-    "authDomain":"smarthomedeneme3.firebaseapp.com",
-    "databaseURL": "https://smarthomedeneme3-default-rtdb.firebaseio.com",
-    'projectId': "smarthomedeneme3",
-    "storageBucket": "smarthomedeneme3.appspot.com",
-    'messagingSenderId': "551070005895",
-    'appId': "1:551070005895:web:d0b518d9a6a4da7a8bd622",
-    'measurementId': "G-NP50F66T5X"
+    "apiKey": "***",
+    "authDomain":"***",
+    "databaseURL": "***",
+    'projectId': "***",
+    "storageBucket": "***.appspot.com",
+    'messagingSenderId': "***",
+    'appId': "***",
+    'measurementId': "***"
 }
 
 firebase = pyrebase.initialize_app(config)
