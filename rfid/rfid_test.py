@@ -5,18 +5,18 @@ from pyrebase import pyrebase
 import sys
 
 config = {
-    "apiKey": "AIzaSyAHpO0pBeqj9xhJ_wj92QSvWE5Xtbk9O44",
-    "authDomain":"smarthomedeneme3.firebaseapp.com",
-    "databaseURL": "https://smarthomedeneme3-default-rtdb.firebaseio.com",
-    "storageBucket": "smarthomedeneme3.appspot.com"
+    "apiKey": "***",
+    "authDomain":"***",
+    "databaseURL": "**",
+    "storageBucket": "***"
 }
 
 firebase = pyrebase.initialize_app(config)
 db = firebase.database()
 
-Tag_ID_Elif = "829977991533"
-Tag_ID_Zuzu = "167768390549"
-Tag_ID_Ali = "217627237919"
+Tag_ID_Elif = "***"
+Tag_ID_Zuzu = "***"
+Tag_ID_Ali = "***"
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setwarnings(False)
