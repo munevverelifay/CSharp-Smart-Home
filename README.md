@@ -1,7 +1,7 @@
 # CSharp-Smart-Home
 Smart Home Project 
 
-##Projenin Amacı
+## Projenin Amacı
 
 Bu projenin amacı C# ile Akıllı Ev kontrolü sağlamaktı. 
 - Hareket algılandığında uyarı verip fotoğraf çekmek isteyip istemediğinizi soruyor. Bu interaktifte amaçladığımız şey evin güvenliği.
