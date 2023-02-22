@@ -1,4 +1,4 @@
-# C--Smart-Home
+# CSharp-Smart-Home
 Smart Home Project 
 
 ##Projenin Amacı
