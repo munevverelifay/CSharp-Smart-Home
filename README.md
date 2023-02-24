@@ -22,6 +22,9 @@ Bu projenin amacı C# ile Akıllı Ev kontrolü sağlamaktı.
 
 Firebase ile haberleştirdim. Fotoğrafların kaydedilmesi için Firebase Storage kullandım ve diğer veriler için Realtime Database üzerinden verilerimi yönlendirdim.
 
+## Arayüz Görseli
+
+![WhatsApp Image 2023-02-24 at 16 30 41](https://user-images.githubusercontent.com/105984573/221197922-28fd27a7-d87b-4b7e-bd08-c5b8f65ff14f.jpeg)
 
 
 
